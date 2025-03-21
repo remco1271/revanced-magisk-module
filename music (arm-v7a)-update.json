@@ -1,6 +1,6 @@
 {
-  "version": "v8.05.51 (20)",
-  "versionCode": 20,
-  "zipUrl": "https://github.com/remco1271/revanced-magisk-module/releases/download/20/music-revanced-magisk-v8.05.51-arm-v7a.zip",
+  "version": "v8.05.51 (22)",
+  "versionCode": 22,
+  "zipUrl": "https://github.com/remco1271/revanced-magisk-module/releases/download/22/music-revanced-magisk-v8.05.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/remco1271/revanced-magisk-module/update/build.md"
 }
